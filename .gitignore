@@ -1,0 +1,15 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+go.sum
+
+packaged.yml
+
+out.json
+
+**/bin
+**/*.log
+**/*.DS_Store
